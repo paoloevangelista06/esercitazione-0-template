@@ -1,27 +1,29 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo: 
 
 Componenti (nome, cognome e username GitHub di entrambi):
 
-URL del repository condiviso:
+Emanuele Franci franci2255635-eng, Paolo Evangelista paoloevangelista06
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+URL del repository condiviso: https://github.com/Laboratorio-di-fisica-computazionale/esercitazione-0-template.git
+
+Chi ha usato la tastiera nello step 1 e nello step 2: entrambi 
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello 
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: ./hello    Hello, computational physics!
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile: Ho capito che la sorgente è il testo scritto in C che poi viene tradotto in linguaggio binario che viene compreso e poi eseguito dal computer. Per questo se non aggiorni l'eseguibile all'ultima versione eseguirà sempre l'ultima sorgente salvata.
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica: Era stato richiesto in output di stampare la frase "Hello, computational physics!" e prima non stampava nulla.
 
-Esito dopo la modifica e spiegazione della correzione:
+Esito dopo la modifica e spiegazione della correzione: Dopo la modifica stampava sul terminale la richiesta grazie alla modifica togliendo le barre di commento e utilizzando la funzione printf();
 
 ## Step 1 — Git
 
