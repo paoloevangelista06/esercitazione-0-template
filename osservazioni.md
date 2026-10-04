@@ -29,7 +29,7 @@ Esito dopo la modifica e spiegazione della correzione: Dopo la modifica stampava
 
 Quali file ho incluso nel commit e perché:
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub:Sono andato sulla cronologia dei commit e ho controllato che nell'ultimo aggiornamento dei commit ci fosse la modifica fatta
 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
 
